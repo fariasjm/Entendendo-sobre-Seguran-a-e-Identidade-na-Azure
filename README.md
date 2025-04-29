@@ -24,7 +24,7 @@ Principais conceitos e ferramentas:
 
   - Azure Sentinel - Uma visão geral do que está acontecendo em seu ambiente e conectar os pontos que podem estar relacionados ao mesmo incidente de segurança.
 
-    ![image](https://github.com/user-attachments/assets/ce5aa915-d5a3-4ab5-aab0-e3c00a2ea1ca)
+      ![image](https://github.com/user-attachments/assets/ce5aa915-d5a3-4ab5-aab0-e3c00a2ea1ca)
 
 
 
