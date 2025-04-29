@@ -17,7 +17,7 @@ Principais conceitos e ferramentas:
   -  Azure Security Center - Ferramenta de gerenciamento unificada que aprimora a postura de segurança dos seus datacenters. Oferece recomendações de segurança com base em melhores práticas e monitora continuamente os recursos para garantir que eles estão configurados corretamente.
       - Avaliação de vulnerabilidade - Detecta vulnerabilidades nos seus recursos e sugere como corrigi-las.
       - Ameaças em tempo real - Monitora atividades suspeitas nos recursos do Azure e oferece alertas em tempo real.
-      - 
+       
   - Microsoft Defender for Cloud - É uma ferramenta cloud native, com configurações específicas para, por exemplo, trazer recomendações de segurança (com notas, recurso DevOps Security), sendo benéfico para a área de software, multicloud e híbrido.
 
     ![image](https://github.com/user-attachments/assets/3e59c262-2255-4b2b-95e7-ca419467d4e5)
@@ -26,5 +26,6 @@ Principais conceitos e ferramentas:
 
       ![image](https://github.com/user-attachments/assets/ce5aa915-d5a3-4ab5-aab0-e3c00a2ea1ca)
 
-
+  - Azure Key Vault - Permite armazenar e acessar senhas, chaves de criptografia e certificados de forma segura.
+      
 
