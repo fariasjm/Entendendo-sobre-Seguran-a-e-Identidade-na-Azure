@@ -9,7 +9,9 @@ Principais conceitos e ferramentas:
       - Autenticação: Verifica a identidade de um usuário para garantir que ele é quem diz ser.
       - Autorização: Determina quais recursos o usuário tem permissão para acessar.
       - MFA (Autenticação Multifator): Adiciona uma camada extra de segurança ao exigir mais de um método de autenticação (senha + SMS, por exemplo).
-      - 
+        ![image](https://github.com/user-attachments/assets/ae428187-eca3-46f2-9d7a-a9b6a67e3ce1)
+
+        
   - RBAC (Role-Based Access Control) - Método de controle de acesso que atribui permissões aos usuários com base em suas funções dentro de uma organização. O Controle de Acesso Baseado em Funções permite que você gerencie permissões de acesso aos recursos do Azure.
       - Funções integradas - Funções predefinidas que atendem a muitas necessidades comuns de segurança.
       - Funções personalizadas - Capacidade de definição de permissões específicas para cada usuário ou aplicação.
